@@ -1,0 +1,16 @@
+---
+layout: default
+---
+<section class="section--center mdl-grid mdl-grid--no-spacing mdl-shadow--2dp">
+    <div class="mdl-card mdl-cell mdl-cell--12-col">
+        <div class="mdl-card__supporting-text">
+            <article class="post">
+                <h3>{{ page.title }}</h3>
+                <p class="byline"><time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%Y-%m-%d" }}</time></p>
+                <div class="post-body">
+                    {{ content }}
+                </div>
+            </article>
+        </div>
+    </div>
+</section>
