@@ -1,4 +1,4 @@
-# [liborettslag.no](liborettslag.no)
+# [liborettslag.no](http://liborettslag.no)
 
 Domain domeneshop.no
 DNS dnsimple.com
