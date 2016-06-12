@@ -3,7 +3,7 @@
 Domain domeneshop.no
 DNS dnsimple.com
 
-Run locally
+## Run locally
 ```bash
 bundle update
 
