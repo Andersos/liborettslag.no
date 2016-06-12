@@ -18,6 +18,12 @@ section a {
 .byline {
     text-align: center;
 }
+.mdl-layout__tab {
+    color: #fff !important;
+}
+.mdl-layout__header {
+    color: #fff !important;
+}
 .mdl-demo header .mdl-layout__header-row {
   padding-left: 40px;
   flex-direction: column;
